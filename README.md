@@ -1,5 +1,7 @@
 # Readme of Supplementary Software File
 
+This is the code repository for article "Human-Guided Continual Learning for Multifaceted Improvement of Self-driving Vehicles"
+
 ## 1. Structure
 
 The files are structured as follows, where the note in the brackets briefly explains the content:
