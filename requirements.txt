@@ -1,0 +1,16 @@
+carla==0.9.15
+ConfigParser==7.2.0
+cpprb==11.0.0
+mediapipe==0.10.21
+networkx==3.1
+numpy==1.24.3
+Pillow==8.0.0
+py_trees==2.3.0
+pygame==2.2.0
+scipy==1.10.1
+setuptools==75.1.0
+Shapely==2.1.0
+simple_watchdog_timer==0.1.1
+six==1.16.0
+thread==2.0.5
+torch==2.4.1

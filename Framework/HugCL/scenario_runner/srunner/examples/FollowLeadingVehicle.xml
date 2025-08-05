@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="FollowLeadingVehicle_1" type="FollowLeadingVehicle" town="Town05">
+        <ego_vehicle x="42.0" y="145.2" z="0" yaw="0" model="vehicle.tesla.model3" />
+    </scenario>
+</scenarios>
