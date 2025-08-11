@@ -183,7 +183,7 @@ Official tutotial can be found here: https://autowarefoundation.github.io/autowa
 
 - This install takes about 40 minutes.
 
-We also provided a pre‑built version for docker image, which can be downloaded from Google Cloud.
+We also provided a pre‑built version for docker image, which can be downloaded from [Google Cloud](https://drive.google.com/file/d/12Ur4bHuzI2rL8yXzHUr7D8V0TxIAs4Ka/view?usp=drive_link).
 
 - Build autoware workspace
      ```bash
@@ -194,7 +194,7 @@ We also provided a pre‑built version for docker image, which can be downloaded
 
 #### 4.2.5 Download field data records
 
-- Download the field testing rosbag data from Google Cloud.
+- Download the field testing rosbag data from [Google Cloud](https://drive.google.com/drive/folders/1OUE45x8chdiXuF6wv8SsSgRhSpv6CJO1?usp=drive_link).
   
 - Unzip the file and copy the rosbags to desired location.
 
