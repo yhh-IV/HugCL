@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 import matplotlib.pyplot as plt
 import sys
-sys.path.append('../PnC/')
+sys.path.append('../HugCL/navigation/')
 from cubic_spline_planner import LocalPlanner
 
 with open('human_traj.pkl', 'rb') as f:
@@ -172,4 +172,5 @@ for i in range(len(spl_s)-1):
     plt.axis('equal')
     plt.ylim(-1.75, 8.75)
     plt.xlim(spl_s[i+1] - 20, spl_s[i+1] + 25)
+
     plt.show()
